@@ -1,0 +1,20 @@
+
+.bg-blue{
+    background-color:blue ;
+  }
+  .mx-auto{
+    margin: auto;
+  }
+    .flex{
+      display: flex;
+    }
+  .flex-col{
+    flex-direction: column;
+  }
+  .item-center{
+    align-items: center;
+      
+  }
+  .text-center {
+    text-align: center;
+  }
